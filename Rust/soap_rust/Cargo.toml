@@ -1,0 +1,22 @@
+[package]
+name = "soap_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Servidor web asíncrono
+tokio = { version = "1", features = ["full"] }
+axum = "0.7"
+
+# Cliente HTTP robusto
+reqwest = { version = "0.11", features = ["json"] }
+
+# Manejo de JSON y serialización
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# Expresiones regulares
+regex = "1"
+
+# Codificación de URLs para la traducción
+urlencoding = "2.1"

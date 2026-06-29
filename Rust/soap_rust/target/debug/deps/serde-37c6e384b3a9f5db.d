@@ -1,0 +1,14 @@
+C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\deps\serde-37c6e384b3a9f5db.d: C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\deps\libserde-37c6e384b3a9f5db.rlib: C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\deps\libserde-37c6e384b3a9f5db.rmeta: C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs
+
+C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Favo_\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\build\serde-38142dd3d0018dab\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Favo_\\Downloads\\DWI\\Producto2_DWI\\Rust\\soap_rust\\target\\debug\\build\\serde-38142dd3d0018dab\\out

@@ -1,0 +1,1 @@
+C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\target\debug\soap_rust.exe: C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\src\cliSoap1.rs C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\src\cliSoap2.rs C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\src\conIntl.rs C:\Users\Favo_\Downloads\DWI\Producto2_DWI\Rust\soap_rust\src\main.rs
