@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lW4loHm3LRw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Favo_\\Downloads\\DWI\\Producto2_DWI\\.Net\\conIntl\\conIntl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Favo_\\.nuget\\packages\\humanizer.core\\3.0.10\\humanizer.core.3.0.10.nupkg.sha512",
+    "C:\\Users\\Favo_\\.nuget\\packages\\humanizer.core.es\\3.0.10\\humanizer.core.es.3.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
